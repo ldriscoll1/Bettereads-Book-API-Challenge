@@ -35,6 +35,8 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <Main>
+        <Cards name="Home" link="/" />
+
         <Title>
           Authors
         </Title>

@@ -49,6 +49,8 @@ export default function handler() {
             </Title>
             
             {books}
+
+            <Cards name="Back" link="/" />
         </Main>
         </Container>
     )

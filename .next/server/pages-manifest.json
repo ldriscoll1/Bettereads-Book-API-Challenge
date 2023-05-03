@@ -2,5 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
+  "/[title]": "pages/[title].js",
+  "/authors": "pages/authors.js",
+  "/api/books/[title]": "pages/api/books/[title].js",
+  "/api/books": "pages/api/books.js",
+  "/api/authors": "pages/api/authors.js",
   "/": "pages/index.js"
 }
